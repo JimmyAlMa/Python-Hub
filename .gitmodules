@@ -1,3 +1,6 @@
 [submodule "Learn-Python"]
 	path = Learn-Python
 	url = https://github.com/JimmyAlMa/Learn-Python.git
+[submodule "Learn-Automation"]
+	path = Learn-Automation
+	url = https://github.com/JimmyAlMa/Learn-Automation.git
