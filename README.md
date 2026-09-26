@@ -9,6 +9,7 @@ A collection of my Python learning materials and projects. This repository serve
 | `Learn-Python` | Notes, exercises, and small scripts from learning Python fundamentals. |
 | `Python-Project-1` | My first Python project — Financial Tracker Bot. |
 | `Learn-Automation` | Small scripts from learning automation. |
+| `Financial-Tracker-Bot-Next-Level` | Rebuilt version of my Financial Tracker Bot — now with Gemini function calling, reminders, and date/monthly recap features. |
 | `...` | More folders will be added as I continue learning and building. |
 
 ## 🎯 Purpose
