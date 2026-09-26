@@ -7,3 +7,6 @@
 [submodule "Python-Project-1"]
 	path = Python-Project-1
 	url = https://github.com/JimmyAlMa/Python-Project-1.git
+[submodule "Financial-Tracker-Bot-Next-Level"]
+	path = Financial-Tracker-Bot-Next-Level
+	url = https://github.com/JimmyAlMa/Financial-Tracker-Bot-Next-Level.git
